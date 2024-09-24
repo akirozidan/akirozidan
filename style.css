@@ -1,0 +1,31 @@
+body{
+    background-color: darkgreen;
+}
+
+#kepala{
+    background-color: black;
+}
+
+#kiri{
+    background-color: blue;
+}
+
+#kanan{
+    background-color: brown;
+}
+
+#kaki{
+    background-color: chocolate;
+}
+
+.besartulisan{
+    font-size: xx-large;
+}
+
+.warnatulisan{
+    color: darkgreen;
+}
+
+.ukurankontak{
+    height:100pk ;
+}
